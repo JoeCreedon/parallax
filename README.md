@@ -1,3 +1,1 @@
 # parallax
-# responsiveform
-# responsiveform
